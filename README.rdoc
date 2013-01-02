@@ -1,0 +1,3 @@
+== Welcome to Ruby on Rails Training by Ezzie Infosystems
+
+This is main application for this training
